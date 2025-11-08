@@ -167,6 +167,7 @@ textarea {
 .caracteres{
   color: rgb(141, 133, 14);
   text-transform: none;  
+  font-size: small;
 }
 
 fieldset{
@@ -220,3 +221,4 @@ button {
   height: 450px;
 }
 
+  
